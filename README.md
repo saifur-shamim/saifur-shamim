@@ -4,7 +4,7 @@ A passionate Computer Science and Engineering graduate with a strong foundation 
 
 Skills: C / C++ / Python / HTML / CSS / MySQL / Hyperledger Indy / SSI
 
-- 🌱 I’m currently learning  Django 
+- 🌱 I’m currently learning  Django and ML 
 - 💬 Ask me about CP 
 - 📫 How to reach me: saifurshamim150@gmail.com 
 
