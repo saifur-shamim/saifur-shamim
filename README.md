@@ -2,7 +2,7 @@
 #### Full Stack Developer || CS Graduate || Researcher || Competitive Programmer || Tech Enthusiast 
 A passionate Computer Science and Engineering graduate with a strong foundation in problem-solving, data structures, and algorithms. I am a lifelong learner who loves exploring new concepts and technologies. My journey includes hands-on experience in research and academic writing, where I have contributed to innovative applications of decentralized identity systems. I am also an avid competitive programmer, continuously honing my skills through challenges and real-world problem-solving.
 
-Skills: C / C++ / Python / HTML / CSS / MySQL / Hyperledger Indy / SSI
+Skills: C / C++ / JavaScript / PHP / Python / ReactJS / NextJS/Laravel / Django / MySQL / Hyperledger Indy / SSI
 
 - 🌱 I’m currently learning  Django and ML 
 - 💬 Ask me about CP 
