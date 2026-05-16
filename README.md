@@ -1,29 +1,115 @@
-### Hi there, I'm MD Saifur Rahman Chowdhury
-#### Full Stack Developer || CS Graduate || Researcher || Competitive Programmer || Tech Enthusiast 
-A passionate Computer Science and Engineering graduate with a strong foundation in problem-solving, data structures, and algorithms. I am a lifelong learner who loves exploring new concepts and technologies. My journey includes hands-on experience in research and academic writing, where I have contributed to innovative applications of decentralized identity systems. I am also an avid competitive programmer, continuously honing my skills through challenges and real-world problem-solving.
+<h1 align="center">Hi, I'm MD Saifur Rahman Chowdhury</h1>
+<h3 align="center">Full Stack Developer | CS Graduate | Researcher | Competitive Programmer</h3>
 
-Skills: C / C++ / JavaScript / PHP / Python / React JS / Next JS / Laravel / Django / MySQL / Hyperledger Indy / SSI
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saifur-shamim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning  Django and ML 
-- 💬 Ask me about CP 
-- 📫 How to reach me: saifurshamim150@gmail.com 
+---
 
+## 👨‍💻 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saifur-shamim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifurshamim/)  
+I am a passionate **Computer Science and Engineering graduate** with strong expertise in:
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 🌐 Full Stack Web Development
+- 🧠 Data Structures and Algorithms
+- 🏆 Competitive Programming
+- 🔐 Decentralized Identity Systems (SSI & Hyperledger Indy)
+- 🤖 Artificial Intelligence and Machine Learning
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifur-shamim)](https://github.com/ryo-ma/github-profile-trophy)
+I enjoy solving real-world problems, building scalable applications, and continuously learning new technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifur-shamim)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Currently learning **Machine Learning and Advanced Django**
+- 💬 Ask me about **Competitive Programming, DSA, React, Laravel**
+- 📫 Reach me at **saifurshamim150@gmail.com**
+- 🇧🇩 Based in Bangladesh
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifur-shamim&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saifur-shamim/contributions?format=svg&private=true)  
+## 🛠️ Tech Stack
 
-![GitHub metrics](https://metrics.lecoq.io/saifur-shamim)  
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,php,python" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saifur-shamim)  
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django" />
+</p>
 
--->
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Research & Emerging Technologies
+- Hyperledger Indy
+- Self-Sovereign Identity (SSI)
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Competitive Programmer
+- 📄 Researcher in Decentralized Identity Systems
+- 🎓 Computer Science and Engineering Graduate
+- 🚀 Full Stack Developer
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/saifur-shamim" target="_blank">
+    <img src="https://img.shields.io/badge/Primary_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/saifur-shamim-2" target="_blank">
+    <img src="https://img.shields.io/badge/Secondary_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saifurshamim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:saifurshamim150@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saifur-shamim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saifur-shamim&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> "Continuous learning and problem-solving are the foundations of great software engineering."
+
+---
+
+## ⭐ Fun Facts
+
+- 🏆 Love solving algorithmic challenges
+- 📚 Enjoy research and academic writing
+- 🤖 Fascinated by AI and emerging technologies
+- 🌍 Passionate about building impactful software
