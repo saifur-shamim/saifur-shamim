@@ -1,5 +1,5 @@
 ### Hi there, I'm MD Saifur Rahman Chowdhury
-#### CS Graduate || Researcher || Competitive Programmer || Tech Enthusiast 
+#### Full Stack Developer || CS Graduate || Researcher || Competitive Programmer || Tech Enthusiast 
 A passionate Computer Science and Engineering graduate with a strong foundation in problem-solving, data structures, and algorithms. I am a lifelong learner who loves exploring new concepts and technologies. My journey includes hands-on experience in research and academic writing, where I have contributed to innovative applications of decentralized identity systems. I am also an avid competitive programmer, continuously honing my skills through challenges and real-world problem-solving.
 
 Skills: C / C++ / Python / HTML / CSS / MySQL / Hyperledger Indy / SSI
